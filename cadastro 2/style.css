@@ -1,0 +1,36 @@
+body{
+    background:linear-gradient(
+    1000deg, 
+    #010103,
+    #091bbb8e,
+    #3f21ffe7,
+    #92a2eae6,
+    #13c3efe2,
+    #41ee95e2,
+    #1908ace2,
+    #082beee2,
+    #7205f8e2,
+    #b447f7e2,
+    #0a0b04e2
+    
+
+
+    );
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+    margin:o;
+}
+
+
+.container{
+    width:400px;
+    margin: 60px auto;
+    background-color:rgba(56, 2, 84, 0.353) ;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+
+}
